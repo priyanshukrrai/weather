@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast",
+  "description": "A stunning, cinematic luxury weather web app featuring real-time forecasts, poetic descriptions, ambient audio, and interactive weather maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
